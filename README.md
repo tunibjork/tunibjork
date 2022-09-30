@@ -1,4 +1,4 @@
-# **Hey there!** 👋
+## **Hey there!** 👋
 
 I'm Samuel, a full stack software developer from Portugal based in Berlin.
 
@@ -10,14 +10,16 @@ I'm Samuel, a full stack software developer from Portugal based in Berlin.
 <!-- ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Signal](https://img.shields.io/badge/Signal-3A76F0.svg?style=for-the-badge&logo=Signal&logoColor=white) -->
 
-# **Toolbox**
+---
+
+## **Toolbox**
 
 **Basics**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-EEEEEE?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-EEEEEE?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-EEEEEE?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-EEEEEE?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Frontend • Design • UIs**
 
