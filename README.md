@@ -72,6 +72,14 @@ I'm Samuel, a full stack software developer from Portugal based in Berlin.
 
 <!--START_SECTION:waka-->
 
+```text
+From: 28 September 2022 - To: 29 September 2022
 
+Total Time: 3 hrs 5 mins
+
+Markdown     3 hrs 4 mins    ████████████████████████▓   99.15 %
+TypeScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+```
 
 <!--END_SECTION:waka-->
