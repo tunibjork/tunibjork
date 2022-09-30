@@ -1,6 +1,6 @@
-# 👋 **Hey!**
+## 👋 **Hey!**
 
-I'm Samuel, a full stack software developer from Portugal based in Berlin.
+I'm Samuel, a full stack software developer from Portugal currently living in Berlin.
 
 [![GitHub](https://img.shields.io/badge/github-EEEEEE.svg?style=for-the-badge&logo=github&logoColor=181717)](https://www.github.com/tunibjork)
 [![Gmail](https://img.shields.io/badge/Gmail-EEEEEE?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:samuelfanhais@gmail.com)
@@ -8,7 +8,7 @@ I'm Samuel, a full stack software developer from Portugal based in Berlin.
 <!-- ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Signal](https://img.shields.io/badge/Signal-3A76F0.svg?style=for-the-badge&logo=Signal&logoColor=white) -->
 
-# 🧰 **Toolbox**
+## 🧰 **Toolbox**
 
 ### **Basics**
 
@@ -68,7 +68,7 @@ I'm Samuel, a full stack software developer from Portugal based in Berlin.
 ![iTerm2](https://img.shields.io/badge/iTerm2-EEEEEE?style=for-the-badge&logo=iterm2&logoColor=black)
 ![Starship](https://img.shields.io/badge/starship-EEEEEE?style=for-the-badge&logo=starship&logoColor=DD0B78)
 
-# 📈 **Weekly Breakdown**
+## 📈 **Weekly Breakdown**
 
 <!--START_SECTION:waka-->
 
