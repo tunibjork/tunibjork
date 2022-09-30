@@ -1,6 +1,6 @@
 # **Hey there!** 👋
 
-### I'm Samuel, a full stack software developer from Portugal based in Berlin.
+I'm Samuel, a full stack software developer from Portugal based in Berlin.
 
 ### **Contact**
 
@@ -14,7 +14,7 @@
 
 ### **Basics**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-EEEEEE?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-EEEEEE?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-EEEEEE?style=for-the-badge&logo=css3&logoColor=1572B6)
