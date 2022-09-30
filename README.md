@@ -2,7 +2,7 @@
 
 I'm Samuel, a full stack software developer from Portugal based in Berlin.
 
-### **Contact**
+**Contact**
 
 [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/tunibjork)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelfanhais@gmail.com)
@@ -12,14 +12,14 @@ I'm Samuel, a full stack software developer from Portugal based in Berlin.
 
 # **Toolbox**
 
-### **Basics**
+**Basics**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-EEEEEE?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-EEEEEE?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-EEEEEE?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-### **Frontend • Design • UIs**
+**Frontend • Design • UIs**
 
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
@@ -33,7 +33,7 @@ I'm Samuel, a full stack software developer from Portugal based in Berlin.
 ![Figma](https://img.shields.io/badge/figma-EEEEEE.svg?style=for-the-badge&logo=figma)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe_illustrator-EEEEEE.svg?style=for-the-badge&logo=adobeillustrator)
 
-### **Backend • DBs • APIs**
+**Backend • DBs • APIs**
 
 ![NodeJS](	https://img.shields.io/badge/Node_js-EEEEEE?style=for-the-badge&logo=nodedotjs)
 ![Express.js](https://img.shields.io/badge/express_js-EEEEEE.svg?style=for-the-badge&logo=express&logoColor=black)
@@ -46,20 +46,20 @@ I'm Samuel, a full stack software developer from Portugal based in Berlin.
 <!-- ![Supabase](https://img.shields.io/badge/Supabase-EEEEEE?style=for-the-badge&logo=supabase)
 ![Firebase](https://img.shields.io/badge/Firebase-EEEEEE?style=for-the-badge&logo=Firebase) -->
 
-### **Dev Ops**
+**Dev Ops**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-EEEEEE.svg?style=for-the-badge&logo=githubactions)
 ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<!-- ### **Testing**
+<!-- **Testing**
 
 ![Cypress](https://img.shields.io/badge/-cypress-EEEEEE?style=for-the-badge&logo=cypress&logoColor=058A5E)
 ![Jest](https://img.shields.io/badge/jest-EEEEEE?style=for-the-badge&logo=jest&logoColor=C21325)
 ![Vitest](https://img.shields.io/badge/Vitest-EEEEEE.svg?style=for-the-badge&logo=Vite&logoColor=6E9F18)
 ![Playwright](https://img.shields.io/badge/Playwright-EEEEEE.svg?style=for-the-badge&logo=Playwright) -->
 
-### **Other Dev Tools**
+**Other Dev Tools**
 
 ![VS Code](https://img.shields.io/badge/VSCode-EEEEEE?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/GIT-EEEEEE?style=for-the-badge&logo=git)
