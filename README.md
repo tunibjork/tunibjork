@@ -2,11 +2,9 @@
 
 I'm Samuel, a full stack software developer from Portugal based in Berlin.
 
-**Contact**
-
-[![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/tunibjork)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelfanhais@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelfanhais)
+[![GitHub](https://img.shields.io/badge/github-EEEEEE.svg?style=for-the-badge&logo=github&logoColor=181717)](https://www.github.com/tunibjork)
+[![Gmail](https://img.shields.io/badge/Gmail-EEEEEE?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:samuelfanhais@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-EEEEEE.svg?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/samuelfanhais)
 <!-- ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Signal](https://img.shields.io/badge/Signal-3A76F0.svg?style=for-the-badge&logo=Signal&logoColor=white) -->
 
