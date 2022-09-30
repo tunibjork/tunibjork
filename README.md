@@ -68,5 +68,10 @@ I'm Samuel, a full stack software developer from Portugal based in Berlin.
 ![iTerm2](https://img.shields.io/badge/iTerm2-EEEEEE?style=for-the-badge&logo=iterm2&logoColor=black)
 ![Starship](https://img.shields.io/badge/starship-EEEEEE?style=for-the-badge&logo=starship&logoColor=DD0B78)
 
+# **Weekly Dev Time**
+
 <!--START_SECTION:waka-->
+
+
+
 <!--END_SECTION:waka-->
