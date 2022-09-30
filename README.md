@@ -2,8 +2,6 @@
 
 ### I'm Samuel, a full stack software developer from Portugal based in Berlin.
 
-<br>
-
 ### **Contact**
 
 [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/tunibjork)
@@ -11,8 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelfanhais)
 <!-- ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Signal](https://img.shields.io/badge/Signal-3A76F0.svg?style=for-the-badge&logo=Signal&logoColor=white) -->
-
-<br>
 
 # **Toolbox**
 
