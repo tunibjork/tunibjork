@@ -8,8 +8,6 @@ I'm Samuel, a full stack software developer from Portugal based in Berlin.
 <!-- ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Signal](https://img.shields.io/badge/Signal-3A76F0.svg?style=for-the-badge&logo=Signal&logoColor=white) -->
 
----
-
 ## **Toolbox**
 
 **Basics**
