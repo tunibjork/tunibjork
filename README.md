@@ -1,4 +1,4 @@
-## **Hey there!** 👋
+# **Hey there!** 👋
 
 I'm Samuel, a full stack software developer from Portugal based in Berlin.
 
@@ -8,16 +8,16 @@ I'm Samuel, a full stack software developer from Portugal based in Berlin.
 <!-- ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Signal](https://img.shields.io/badge/Signal-3A76F0.svg?style=for-the-badge&logo=Signal&logoColor=white) -->
 
-## **Toolbox**
+# **Toolbox**
 
-**Basics**
+### **Basics**
 
 ![HTML5](https://img.shields.io/badge/HTML5-EEEEEE?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-EEEEEE?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-EEEEEE?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Frontend • Design • UIs**
+### **Frontend • Design • UIs**
 
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
@@ -31,7 +31,7 @@ I'm Samuel, a full stack software developer from Portugal based in Berlin.
 ![Figma](https://img.shields.io/badge/figma-EEEEEE.svg?style=for-the-badge&logo=figma)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe_illustrator-EEEEEE.svg?style=for-the-badge&logo=adobeillustrator)
 
-**Backend • DBs • APIs**
+### **Backend • DBs • APIs**
 
 ![NodeJS](	https://img.shields.io/badge/Node_js-EEEEEE?style=for-the-badge&logo=nodedotjs)
 ![Express.js](https://img.shields.io/badge/express_js-EEEEEE.svg?style=for-the-badge&logo=express&logoColor=black)
@@ -44,7 +44,7 @@ I'm Samuel, a full stack software developer from Portugal based in Berlin.
 <!-- ![Supabase](https://img.shields.io/badge/Supabase-EEEEEE?style=for-the-badge&logo=supabase)
 ![Firebase](https://img.shields.io/badge/Firebase-EEEEEE?style=for-the-badge&logo=Firebase) -->
 
-**Dev Ops**
+### **Dev Ops**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-EEEEEE.svg?style=for-the-badge&logo=githubactions)
@@ -57,7 +57,7 @@ I'm Samuel, a full stack software developer from Portugal based in Berlin.
 ![Vitest](https://img.shields.io/badge/Vitest-EEEEEE.svg?style=for-the-badge&logo=Vite&logoColor=6E9F18)
 ![Playwright](https://img.shields.io/badge/Playwright-EEEEEE.svg?style=for-the-badge&logo=Playwright) -->
 
-**Other Dev Tools**
+### **Other Dev Tools**
 
 ![VS Code](https://img.shields.io/badge/VSCode-EEEEEE?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/GIT-EEEEEE?style=for-the-badge&logo=git)
@@ -67,3 +67,6 @@ I'm Samuel, a full stack software developer from Portugal based in Berlin.
 ![ESLint](https://img.shields.io/badge/ESLint-EEEEEE?style=for-the-badge&logo=eslint&logoColor=4B32C3)
 ![iTerm2](https://img.shields.io/badge/iTerm2-EEEEEE?style=for-the-badge&logo=iterm2&logoColor=black)
 ![Starship](https://img.shields.io/badge/starship-EEEEEE?style=for-the-badge&logo=starship&logoColor=DD0B78)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
