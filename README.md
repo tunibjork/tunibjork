@@ -73,9 +73,10 @@ I'm Samuel, a full stack software developer from Portugal currently living in Be
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     9 hrs 6 mins    ███████████████████████▓░   94.01 %
-YAML         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Markdown     9 hrs 12 mins   ██████████████████████▓░░   90.83 %
+YAML         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+TypeScript   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
