@@ -1,6 +1,6 @@
 ## 👋 **Hey!**
 
-I'm Samuel, a full stack software developer from Portugal currently living in Berlin.
+I'm Samuel, a full stack software engineer from Portugal currently living in Berlin.
 
 [![GitHub](https://img.shields.io/badge/github-EEEEEE.svg?style=for-the-badge&logo=github&logoColor=181717)](https://www.github.com/tunibjork)
 [![Gmail](https://img.shields.io/badge/Gmail-EEEEEE?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:samuelfanhais@gmail.com)
