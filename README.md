@@ -73,12 +73,12 @@ I'm Samuel, a full stack software engineer from Portugal currently living in Ber
 <!--START_SECTION:waka-->
 
 ```text
-Docker       59 mins         ███████████████░░░░░░░░░░   59.95 %
-JSON         13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
-Markdown     8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-TypeScript   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-Bash         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Docker       59 mins         ████████████▓░░░░░░░░░░░░   50.43 %
+JavaScript   23 mins         █████░░░░░░░░░░░░░░░░░░░░   20.37 %
+JSON         15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
+Markdown     8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+TypeScript   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
