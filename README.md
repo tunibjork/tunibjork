@@ -73,7 +73,8 @@ I'm Samuel, a full stack software engineer from Portugal currently living in Ber
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+fish    4 mins          ███████████████▒░░░░░░░░░   61.66 %
+Other   2 mins          █████████░░░░░░░░░░░░░░░░   36.65 %
 ```
 
 <!--END_SECTION:waka-->
