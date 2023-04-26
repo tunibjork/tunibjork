@@ -73,10 +73,10 @@ I'm Samuel, a full stack software engineer from Portugal currently living in Ber
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   7 hrs 1 min     ████████░░░░░░░░░░░░░░░░░   32.06 %
-JSON         6 hrs 2 mins    ███████░░░░░░░░░░░░░░░░░░   27.54 %
-SCSS         2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-Other        1 hr 58 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+TypeScript   5 hrs 28 mins   █████████░░░░░░░░░░░░░░░░   36.02 %
+JSON         2 hrs 51 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.85 %
+SCSS         2 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+Other        1 hr 45 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
 ```
 
 <!--END_SECTION:waka-->
