@@ -73,10 +73,10 @@ I'm Samuel, a full stack software engineer from Portugal currently living in Ber
 <!--START_SECTION:waka-->
 
 ```txt
-Other        35 mins         ██████████████▒░░░░░░░░░░   56.70 %
-JSON         26 mins         ██████████▒░░░░░░░░░░░░░░   41.23 %
-SSH Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-fish         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Other        35 mins         ███████████████████░░░░░░   76.05 %
+JSON         9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
+SSH Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+fish         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
